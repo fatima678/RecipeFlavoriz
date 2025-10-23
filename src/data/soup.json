@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Chicken Corn Soup",
+        "description": "A creamy and comforting soup with chicken and corn.",
+        "ingredients": ["1 cup corn", "100g chicken", "1 egg", "1 tbsp cornflour", "1 tsp soy sauce", "Salt", "Pepper"],
+        "instructions": ["Cook chicken and corn in water until tender.", "Thicken with cornflour slurry, add beaten egg.", "Season with soy sauce, salt, and pepper, serve hot."]
+    },
+    {
+        "name": "Lentil Soup",
+        "description": "A hearty and nutritious lentil soup with spices.",
+        "ingredients": ["1 cup red lentils", "1 tomato", "1 tsp cumin seeds", "1 onion", "1 tbsp ginger-garlic paste", "Salt"],
+        "instructions": ["Boil lentils with chopped tomato and spices.", "Blend or serve chunky, adjust seasoning with salt.", "Serve with a drizzle of oil."]
+    },
+    {
+        "name": "Mutton Yakhni",
+        "description": "A flavorful mutton broth with aromatic spices.",
+        "ingredients": ["500g mutton bones", "1 tbsp fennel seeds", "1 tsp black peppercorns", "1 onion", "Salt"],
+        "instructions": ["Boil mutton bones with spices and onion.", "Simmer for 2-3 hours, strain broth.", "Serve hot with a pinch of salt."]
+    },
+    {
+        "name": "Vegetable Soup",
+        "description": "A light soup with mixed vegetables.",
+        "ingredients": ["1 carrot", "1 potato", "1/2 cup peas", "1 tsp cumin powder", "1 tbsp butter", "Salt"],
+        "instructions": ["Chop vegetables, boil with water and cumin.", "Add butter, season with salt.", "Serve warm."]
+    },
+    {
+        "name": "Tomato Soup",
+        "description": "A tangy and smooth tomato-based soup.",
+        "ingredients": ["4 tomatoes", "1 onion", "1 tsp ginger", "1 tbsp cream", "Salt", "Pepper"],
+        "instructions": ["Boil tomatoes and onion, blend into a puree.", "Add ginger, cream, salt, and pepper.", "Serve hot."]
+    },
+    {
+        "name": "Haleem Soup",
+        "description": "A thick soup made with lentils, wheat, and meat.",
+        "ingredients": ["200g mutton", "1/4 cup lentils", "1/4 cup wheat", "1 tsp garam masala", "1 onion", "Ghee"],
+        "instructions": ["Cook mutton, lentils, and wheat together until soft.", "Blend into a thick consistency, add garam masala.", "Garnish with fried onions and ghee, serve hot."]
+    },
+    {
+        "name": "Spinach Soup",
+        "description": "A healthy soup with fresh spinach.",
+        "ingredients": ["2 cups spinach", "1 potato", "1 tsp garlic", "1 tbsp cream", "Salt"],
+        "instructions": ["Boil spinach and potato with garlic.", "Blend into a smooth soup, add cream.", "Season with salt, serve warm."]
+    },
+    {
+        "name": "Paya Soup",
+        "description": "A rich soup made from slow-cooked trotters.",
+        "ingredients": ["500g paya", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1 onion", "Salt"],
+        "instructions": ["Boil paya with spices and onion for 4-5 hours.", "Strain broth, season with salt.", "Serve hot."]
+    },
+    {
+        "name": "Mixed Dal Soup",
+        "description": "A blend of lentils for a nutritious soup.",
+        "ingredients": ["1/4 cup moong dal", "1/4 cup masoor dal", "1 tomato", "1 tsp cumin", "Salt"],
+        "instructions": ["Cook both dals with tomato and cumin.", "Blend or serve as is, adjust salt.", "Serve with a tadka of ghee."]
+    },
+    {
+        "name": "Cream of Mushroom Soup",
+        "description": "A creamy mushroom soup with a Pakistani twist.",
+        "ingredients": ["1 cup mushrooms", "1 tbsp butter", "1 cup milk", "1 tsp black pepper", "Salt"],
+        "instructions": ["Sauté mushrooms in butter, add milk.", "Simmer until thick, season with pepper and salt.", "Serve hot."]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Gulab Jamun",
+        "description": "Sweet, soft dumplings soaked in rose-flavored syrup.",
+        "ingredients": ["1 cup khoya", "2 tbsp flour", "1/4 tsp baking soda", "1 cup sugar", "1 cup water", "1 tsp rose water", "Oil for frying"],
+        "instructions": ["Mix khoya, flour, and baking soda into a dough.", "Shape into small balls.", "Fry balls in hot oil until golden brown.", "Prepare syrup with sugar, water, and rose water; soak fried balls in syrup."]
+    },
+    {
+        "name": "Rasmalai",
+        "description": "Spongy cottage cheese balls in thickened milk with saffron.",
+        "ingredients": ["1 liter milk", "1 cup sugar", "1 tsp cardamom powder", "Saffron strands", "1 tbsp vinegar", "2 tbsp flour"],
+        "instructions": ["Curdle milk with vinegar, drain to make paneer.", "Knead paneer with flour, shape into balls, and flatten.", "Boil in sugar syrup, then soak in sweetened milk with saffron and cardamom."]
+    },
+    {
+        "name": "Sheer Khurma",
+        "description": "A rich vermicelli pudding made during Eid celebrations.",
+        "ingredients": ["1 liter milk", "1/2 cup vermicelli", "1/2 cup sugar", "1/4 cup dates", "1/4 cup almonds", "1/4 cup ghee"],
+        "instructions": ["Fry vermicelli in ghee until golden.", "Add milk and sugar, cook until thickened.", "Stir in chopped dates and almonds, serve warm or chilled."]
+    },
+    {
+        "name": "Kheer",
+        "description": "A creamy rice pudding flavored with cardamom and nuts.",
+        "ingredients": ["1 liter milk", "1/2 cup rice", "1/2 cup sugar", "1 tsp cardamom powder", "2 tbsp almonds", "1 tbsp raisins"],
+        "instructions": ["Cook rice in milk until soft.", "Add sugar and cardamom, stir until thickened.", "Garnish with almonds and raisins, serve warm."]
+    },
+    {
+        "name": "Jalebi",
+        "description": "Crispy, spiral-shaped sweets soaked in saffron syrup.",
+        "ingredients": ["1 cup flour", "1 tsp yeast", "1 cup sugar", "1/2 cup water", "Saffron strands", "Oil for frying"],
+        "instructions": ["Mix flour and yeast with water, ferment for 1 hour.", "Pipe batter into hot oil in spirals, fry until golden.", "Soak in sugar syrup with saffron."]
+    },
+    {
+        "name": "Halwa Puri",
+        "description": "Semolina halwa paired with deep-fried bread.",
+        "ingredients": ["1 cup semolina", "1 cup sugar", "1/2 cup ghee", "2 cups water", "1/2 cup flour", "Oil for frying"],
+        "instructions": ["Roast semolina in ghee, add sugar and water to make halwa.", "Knead flour into dough, roll into puris, and fry.", "Serve halwa with puris."]
+    },
+    {
+        "name": "Falooda",
+        "description": "A refreshing dessert with vermicelli, milk, and basil seeds.",
+        "ingredients": ["1 liter milk", "1/2 cup sugar", "1/4 cup vermicelli", "1 tbsp basil seeds", "Ice cream", "Rose syrup"],
+        "instructions": ["Cook vermicelli, cool it.", "Soak basil seeds in water.", "Layer milk, vermicelli, seeds, and syrup, top with ice cream."]
+    },
+    {
+        "name": "Phirni",
+        "description": "A creamy rice flour pudding with nuts.",
+        "ingredients": ["1 liter milk", "1/2 cup rice flour", "1/2 cup sugar", "1 tsp cardamom powder", "2 tbsp pistachios"],
+        "instructions": ["Mix rice flour with cold milk, cook with rest of milk.", "Add sugar and cardamom, stir until thick.", "Garnish with pistachios, chill before serving."]
+    },
+    {
+        "name": "Barfi",
+        "description": "A dense milk-based sweet with cardamom.",
+        "ingredients": ["2 cups khoya", "1 cup sugar", "1 tsp cardamom powder", "2 tbsp ghee", "Almonds for garnish"],
+        "instructions": ["Cook khoya and sugar in ghee until thick.", "Add cardamom, spread in a tray to set.", "Cut into squares, garnish with almonds."]
+    },
+    {
+        "name": "Sohan Halwa",
+        "description": "A rich, nutty halwa from Punjab.",
+        "ingredients": ["1 cup cornflour", "1 cup sugar", "1/2 cup ghee", "1/4 cup almonds", "1/4 cup pistachios", "1 tsp cardamom"],
+        "instructions": ["Mix cornflour with water, cook with sugar and ghee.", "Stir until thick, add nuts and cardamom.", "Spread and let cool, then cut into pieces."]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mango Lassi",
+        "description": "A creamy and refreshing mango yogurt drink, a Pakistani classic.",
+        "ingredients": ["1 cup mango puree", "1 cup yogurt", "2 tbsp sugar", "Ice cubes"],
+        "instructions": ["Blend mango puree, yogurt, and sugar until smooth.", "Add ice cubes, serve chilled."]
+    },
+    {
+        "name": "Sugarcane Juice",
+        "description": "Freshly extracted sugarcane juice with a hint of lemon.",
+        "ingredients": ["2 cups sugarcane", "1 tbsp lemon juice", "Ice", "Water"],
+        "instructions": ["Extract juice from sugarcane using a juicer.", "Mix with lemon juice, add ice and water, serve fresh."]
+    },
+    {
+        "name": "Pomegranate Juice",
+        "description": "A tangy and antioxidant-rich juice.",
+        "ingredients": ["2 cups pomegranate seeds", "1 tbsp sugar", "Ice", "Water"],
+        "instructions": ["Blend pomegranate seeds, strain the juice.", "Add sugar and water, serve with ice."]
+    },
+    {
+        "name": "Orange Juice",
+        "description": "Freshly squeezed orange juice with a zesty flavor.",
+        "ingredients": ["4 oranges", "1 tbsp honey", "Ice"],
+        "instructions": ["Squeeze juice from oranges.", "Mix with honey, serve with ice."]
+    },
+    {
+        "name": "Guava Juice",
+        "description": "A sweet and tropical guava drink.",
+        "ingredients": ["2 guavas", "1 tbsp sugar", "1 cup water", "Ice"],
+        "instructions": ["Blend guavas with sugar and water, strain.", "Serve with ice."]
+    },
+    {
+        "name": "Watermelon Juice",
+        "description": "A hydrating and sweet summer juice.",
+        "ingredients": ["2 cups watermelon", "1 tbsp lemon juice", "Ice"],
+        "instructions": ["Blend watermelon, add lemon juice.", "Serve with ice."]
+    },
+    {
+        "name": "Banana Shake",
+        "description": "A creamy banana juice with milk.",
+        "ingredients": ["2 bananas", "1 cup milk", "1 tbsp sugar", "Ice"],
+        "instructions": ["Blend bananas, milk, and sugar.", "Add ice, serve chilled."]
+    },
+    {
+        "name": "Mixed Fruit Juice",
+        "description": "A blend of seasonal fruits.",
+        "ingredients": ["1 apple", "1 orange", "1 banana", "1 tbsp sugar", "Water"],
+        "instructions": ["Blend all fruits with sugar and water.", "Strain if desired, serve cold."]
+    },
+    {
+        "name": "Carrot Juice",
+        "description": "A nutritious juice with a hint of ginger.",
+        "ingredients": ["2 carrots", "1 tsp ginger", "1 tbsp honey", "Water"],
+        "instructions": ["Blend carrots and ginger with water.", "Add honey, serve fresh."]
+    },
+    {
+        "name": "Pineapple Juice",
+        "description": "A tangy and sweet pineapple drink.",
+        "ingredients": ["1 cup pineapple", "1 tbsp sugar", "Ice", "Water"],
+        "instructions": ["Blend pineapple with sugar and water.", "Serve with ice."]
+    }
+]

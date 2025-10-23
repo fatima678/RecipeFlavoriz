@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Chicken Biryani",
+        "description": "A flavorful rice dish with spiced chicken, a Pakistani staple.",
+        "ingredients": ["2 cups basmati rice", "500g chicken", "1 cup yogurt", "1 tbsp biryani masala", "1 onion", "Ghee", "Saffron"],
+        "instructions": ["Marinate chicken with yogurt and spices for 1 hour.", "Parboil rice, layer with marinated chicken in a pot.", "Cook on dum with ghee and saffron, serve hot."]
+    },
+    {
+        "name": "Karahi Chicken",
+        "description": "A spicy chicken curry cooked in a traditional karahi.",
+        "ingredients": ["500g chicken", "2 tomatoes", "1 tbsp ginger-garlic paste", "1 tsp red chili powder", "1/2 cup oil", "Green chilies"],
+        "instructions": ["Heat oil, add ginger-garlic paste and tomatoes.", "Add chicken and spices, cook until oil separates.", "Garnish with green chilies, serve with naan."]
+    },
+    {
+        "name": "Mutton Korma",
+        "description": "A rich mutton curry with creamy gravy.",
+        "ingredients": ["500g mutton", "1 cup yogurt", "1 tbsp garam masala", "1 onion", "1/2 cup oil", "Almonds"],
+        "instructions": ["Fry onions until golden, add mutton and spices.", "Cook with yogurt until tender, garnish with almonds.", "Serve with rice or roti."]
+    },
+    {
+        "name": "Aloo Gosht",
+        "description": "A hearty mutton and potato curry.",
+        "ingredients": ["500g mutton", "2 potatoes", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1/2 cup oil"],
+        "instructions": ["Cook mutton with spices until half-done.", "Add cubed potatoes, simmer until tender.", "Serve with naan or rice."]
+    },
+    {
+        "name": "Pulao",
+        "description": "Fragrant rice with meat and spices.",
+        "ingredients": ["2 cups rice", "300g beef", "1 tsp cumin seeds", "1 onion", "1/2 cup oil", "Yogurt"],
+        "instructions": ["Fry onions, add beef and spices, cook until tender.", "Add soaked rice and water, cook until done.", "Serve hot."]
+    },
+    {
+        "name": "Qeema",
+        "description": "Minced meat cooked with peas and spices.",
+        "ingredients": ["500g minced beef", "1 cup peas", "1 tomato", "1 tsp coriander powder", "1/2 cup oil"],
+        "instructions": ["Cook minced meat with tomatoes and spices.", "Add peas, simmer until soft.", "Serve with paratha."]
+    },
+    {
+        "name": "Dal Chawal",
+        "description": "Lentils served with plain rice.",
+        "ingredients": ["1 cup lentils", "1 tomato", "1 tsp cumin seeds", "1 onion", "2 cups rice"],
+        "instructions": ["Cook lentils with tomatoes and spices.", "Prepare plain rice separately.", "Serve together with a side of pickle."]
+    },
+    {
+        "name": "Chicken Pulao",
+        "description": "A simpler version of biryani with chicken.",
+        "ingredients": ["2 cups rice", "400g chicken", "1 tbsp garam masala", "1 onion", "1/2 cup oil"],
+        "instructions": ["Fry onions, add chicken and spices.", "Add soaked rice and water, cook until rice is done.", "Serve warm."]
+    },
+    {
+        "name": "Saag Gosht",
+        "description": "Mutton cooked with spinach for a healthy twist.",
+        "ingredients": ["500g mutton", "2 cups spinach", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1/2 cup oil"],
+        "instructions": ["Cook mutton with spices until tender.", "Add blended spinach, simmer for 10 minutes.", "Serve with roti."]
+    },
+    {
+        "name": "Keema Naan",
+        "description": "Stuffed naan with spiced minced meat.",
+        "ingredients": ["2 cups flour", "300g minced beef", "1 tsp cumin", "1 onion", "Ghee"],
+        "instructions": ["Prepare dough, mix minced meat with spices.", "Stuff dough with meat, roll and cook on tawa with ghee.", "Serve hot."]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Chocolate Shake",
+        "description": "A rich and creamy chocolate milkshake, a Pakistani favorite.",
+        "ingredients": ["2 cups milk", "2 tbsp cocoa powder", "2 tbsp sugar", "1 scoop vanilla ice cream", "Ice cubes"],
+        "instructions": ["Blend milk, cocoa powder, sugar, and ice cream until smooth.", "Add ice cubes, serve chilled."]
+    },
+    {
+        "name": "Banana Shake",
+        "description": "A sweet and creamy banana milkshake.",
+        "ingredients": ["2 bananas", "1 cup milk", "1 tbsp sugar", "1 scoop ice cream", "Ice"],
+        "instructions": ["Blend bananas, milk, sugar, and ice cream.", "Add ice, serve cold."]
+    },
+    {
+        "name": "Pista Shake",
+        "description": "A nutty pistachio-flavored milkshake.",
+        "ingredients": ["1 cup milk", "2 tbsp pistachio paste", "1 tbsp sugar", "1 scoop ice cream", "Ice"],
+        "instructions": ["Blend milk, pistachio paste, sugar, and ice cream.", "Add ice, serve chilled."]
+    },
+    {
+        "name": "Mango Shake",
+        "description": "A tropical mango milkshake with a creamy texture.",
+        "ingredients": ["1 cup mango puree", "1 cup milk", "1 tbsp sugar", "Ice cream", "Ice"],
+        "instructions": ["Blend mango puree, milk, sugar, and ice cream.", "Add ice, serve cold."]
+    },
+    {
+        "name": "Strawberry Shake",
+        "description": "A refreshing strawberry milkshake.",
+        "ingredients": ["1 cup strawberries", "1 cup milk", "2 tbsp sugar", "1 scoop ice cream", "Ice"],
+        "instructions": ["Blend strawberries, milk, sugar, and ice cream.", "Add ice, serve chilled."]
+    },
+    {
+        "name": "Date Shake",
+        "description": "A healthy shake with dates and nuts.",
+        "ingredients": ["1 cup milk", "6 dates", "1 tbsp almonds", "1 tbsp honey", "Ice"],
+        "instructions": ["Soak dates, blend with milk, almonds, and honey.", "Add ice, serve cold."]
+    },
+    {
+        "name": "Chikoo Shake",
+        "description": "A sweet and creamy sapodilla shake.",
+        "ingredients": ["2 chikoos", "1 cup milk", "1 tbsp sugar", "Ice cream", "Ice"],
+        "instructions": ["Peel and blend chikoos with milk and sugar.", "Add ice cream and ice, serve chilled."]
+    },
+    {
+        "name": "Mixed Nut Shake",
+        "description": "A protein-rich shake with mixed nuts.",
+        "ingredients": ["1 cup milk", "1 tbsp almonds", "1 tbsp cashews", "1 tbsp sugar", "Ice"],
+        "instructions": ["Blend milk, nuts, and sugar until smooth.", "Add ice, serve cold."]
+    },
+    {
+        "name": "Caramel Shake",
+        "description": "A sweet caramel-flavored milkshake.",
+        "ingredients": ["1 cup milk", "2 tbsp caramel syrup", "1 scoop vanilla ice cream", "Ice"],
+        "instructions": ["Blend milk, caramel syrup, and ice cream.", "Add ice, serve chilled."]
+    },
+    {
+        "name": "Rose Shake",
+        "description": "A fragrant shake with rose syrup.",
+        "ingredients": ["1 cup milk", "2 tbsp rose syrup", "1 scoop ice cream", "Ice", "Pistachios"],
+        "instructions": ["Blend milk, rose syrup, and ice cream.", "Add ice, garnish with pistachios, serve cold."]
+    }
+]

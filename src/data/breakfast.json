@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Paratha",
+        "description": "A flaky, layered flatbread served with curry or yogurt.",
+        "ingredients": ["2 cups whole wheat flour", "1 tbsp ghee", "Water", "Salt", "Extra ghee for cooking"],
+        "instructions": ["Knead flour with ghee, water, and salt into a soft dough.", "Roll into flatbreads, cook on a tawa with ghee until golden.", "Serve hot with achar or curry."]
+    },
+    {
+        "name": "Halwa Puri",
+        "description": "A traditional breakfast of semolina halwa with fried bread.",
+        "ingredients": ["1 cup semolina", "1 cup sugar", "1/2 cup ghee", "2 cups water", "2 cups flour", "Oil for frying"],
+        "instructions": ["Roast semolina in ghee, add sugar and water to make halwa.", "Knead flour into dough, roll into puris, and fry in oil.", "Serve halwa with puris."]
+    },
+    {
+        "name": "Aloo Paratha",
+        "description": "Stuffed paratha with spiced potatoes.",
+        "ingredients": ["2 cups flour", "2 boiled potatoes", "1 tsp cumin", "1/2 tsp red chili powder", "Ghee"],
+        "instructions": ["Mash potatoes with spices, knead flour into dough.", "Stuff potato mix into dough, roll and cook with ghee.", "Serve with yogurt or pickle."]
+    },
+    {
+        "name": "Naan Khatai",
+        "description": "Sweet, crumbly biscuits paired with tea.",
+        "ingredients": ["1 cup flour", "1/2 cup ghee", "1/2 cup sugar", "1 tsp cardamom powder", "Almonds"],
+        "instructions": ["Mix ghee, sugar, and flour, add cardamom.", "Shape into cookies, press almonds on top, bake at 180°C for 15-20 minutes.", "Serve with tea."]
+    },
+    {
+        "name": "Chana Chaat",
+        "description": "Spicy chickpea snack for a hearty breakfast.",
+        "ingredients": ["1 cup boiled chickpeas", "1 tomato", "1 onion", "1 tsp chaat masala", "Lemon juice"],
+        "instructions": ["Mix boiled chickpeas with chopped tomato and onion.", "Add chaat masala and lemon juice, serve fresh."]
+    },
+    {
+        "name": "Omelette with Paratha",
+        "description": "A simple egg omelette served with paratha.",
+        "ingredients": ["2 eggs", "1 onion", "1 green chili", "1 cup flour", "Ghee"],
+        "instructions": ["Beat eggs with chopped onion and chili, cook into an omelette.", "Prepare paratha with flour and ghee.", "Serve together."]
+    },
+    {
+        "name": "Samosa",
+        "description": "Crispy pastry filled with spiced potatoes.",
+        "ingredients": ["1 cup flour", "2 potatoes", "1 tsp cumin", "Oil for frying", "Water"],
+        "instructions": ["Knead flour into dough, boil and mash potatoes with spices.", "Fill dough with potato mix, fry until golden.", "Serve with chutney."]
+    },
+    {
+        "name": "Lassi",
+        "description": "A refreshing yogurt drink to start the day.",
+        "ingredients": ["1 cup yogurt", "1 tbsp sugar", "1/2 cup water", "Ice cubes"],
+        "instructions": ["Blend yogurt, sugar, and water until smooth.", "Add ice cubes, serve chilled."]
+    },
+    {
+        "name": "Puri Bhaji",
+        "description": "Fried bread with a spicy potato curry.",
+        "ingredients": ["2 cups flour", "2 potatoes", "1 tsp mustard seeds", "1/2 cup oil", "Salt"],
+        "instructions": ["Knead flour, fry as puris.", "Cook mashed potatoes with mustard seeds and spices.", "Serve puris with bhaji."]
+    },
+    {
+        "name": "Anda Bhurji",
+        "description": "Scrambled eggs with spices, a quick breakfast.",
+        "ingredients": ["3 eggs", "1 onion", "1 tomato", "1 tsp turmeric", "1/2 cup oil"],
+        "instructions": ["Sauté onion and tomato, add beaten eggs with turmeric.", "Cook until scrambled, serve with bread or paratha."]
+    }
+]

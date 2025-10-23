@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Nihari",
+        "description": "A slow-cooked mutton stew with rich, spicy gravy, a Pakistani delicacy.",
+        "ingredients": ["500g mutton", "2 tbsp nihari masala", "1 cup yogurt", "1 onion", "1/2 cup ghee", "Ginger"],
+        "instructions": ["Fry onions in ghee until golden, add mutton and nihari masala.", "Cook with yogurt on low heat for 4-5 hours.", "Garnish with ginger, serve with naan."]
+    },
+    {
+        "name": "Paya",
+        "description": "A flavorful trotter soup with aromatic spices.",
+        "ingredients": ["500g paya", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1 onion", "1/2 cup oil", "Salt"],
+        "instructions": ["Boil paya with spices and onion for 4-5 hours.", "Add oil and adjust seasoning, serve hot with naan."]
+    },
+    {
+        "name": "Chicken Karahi",
+        "description": "A spicy chicken curry cooked in a traditional karahi.",
+        "ingredients": ["500g chicken", "2 tomatoes", "1 tbsp ginger-garlic paste", "1 tsp red chili powder", "1/2 cup oil", "Green chilies"],
+        "instructions": ["Heat oil, add ginger-garlic paste and tomatoes.", "Add chicken and spices, cook until oil separates.", "Garnish with green chilies, serve with roti."]
+    },
+    {
+        "name": "Mutton Korma",
+        "description": "A creamy mutton curry with a blend of spices.",
+        "ingredients": ["500g mutton", "1 cup yogurt", "1 tbsp garam masala", "1 onion", "1/2 cup oil", "Almonds"],
+        "instructions": ["Fry onions until golden, add mutton and spices.", "Cook with yogurt until tender, garnish with almonds.", "Serve with naan or rice."]
+    },
+    {
+        "name": "Keema Matar",
+        "description": "Minced meat cooked with peas and spices.",
+        "ingredients": ["500g minced beef", "1 cup peas", "1 tomato", "1 tsp coriander powder", "1/2 cup oil", "Salt"],
+        "instructions": ["Cook minced meat with tomatoes and spices.", "Add peas, simmer until soft.", "Serve with paratha or rice."]
+    },
+    {
+        "name": "Rogan Josh",
+        "description": "A rich mutton curry with Kashmiri spices.",
+        "ingredients": ["500g mutton", "1 cup yogurt", "1 tbsp Kashmiri chili powder", "1 onion", "1/2 cup oil", "Cardamom"],
+        "instructions": ["Marinate mutton with yogurt and spices.", "Cook with fried onions and cardamom until tender.", "Serve with rice."]
+    },
+    {
+        "name": "Chicken Handi",
+        "description": "A creamy chicken dish cooked in a handi.",
+        "ingredients": ["500g chicken", "1 cup cream", "1 tbsp garam masala", "1 tomato", "1/2 cup oil", "Butter"],
+        "instructions": ["Cook chicken with tomatoes and spices in oil.", "Add cream and butter, simmer until thick.", "Serve with naan."]
+    },
+    {
+        "name": "Saag Gosht",
+        "description": "Mutton cooked with spinach for a nutritious dinner.",
+        "ingredients": ["500g mutton", "2 cups spinach", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1/2 cup oil", "Salt"],
+        "instructions": ["Cook mutton with spices until tender.", "Add blended spinach, simmer for 10 minutes.", "Serve with roti."]
+    },
+    {
+        "name": "Beef Qorma",
+        "description": "A flavorful beef curry with rich gravy.",
+        "ingredients": ["500g beef", "1 cup yogurt", "1 tbsp garam masala", "1 onion", "1/2 cup oil", "Cashews"],
+        "instructions": ["Fry onions, add beef and spices.", "Cook with yogurt until tender, garnish with cashews.", "Serve with naan."]
+    },
+    {
+        "name": "Dal Gosht",
+        "description": "A hearty combination of lentils and mutton.",
+        "ingredients": ["500g mutton", "1 cup lentils", "1 tomato", "1 tsp cumin", "1/2 cup oil", "Salt"],
+        "instructions": ["Cook mutton and lentils with tomatoes and spices.", "Simmer until well combined, serve with rice."]
+    }
+]
