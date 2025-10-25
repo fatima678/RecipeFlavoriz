@@ -27,7 +27,12 @@ import DinnerPage from './pages/DinnerPAge';
 import SoupsPage from './pages/SoupPage';
 import JuicesPage from './pages/JuicesPage';
 import SaladPage from './pages/SaladsPage';
+import CategoryPage from './pages/CategoryPage.jsx'
+import AboutUs from './pages/AboutUs.jsx';
+import Blog from './pages/Blog.jsx';
+import RecipeGenerator from './pages/RecipeGenerator.jsx';
 
+import Recipes from './pages/Recipes.jsx';
 function App() {
     return (
         <div className="min-h-screen bg-gray-100">
@@ -36,18 +41,16 @@ function App() {
            
             <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path="/dessert" element={<DessertPage />} />
-                <Route path="/lunch" element={<LunchPage />} />
-                <Route path="/shakes" element={<ShakesPage />} />
-                <Route path="/breakfast" element={<BreakfastPage />} />
-                <Route path="/dinner" element={<DinnerPage />} />
-                <Route path="/soups" element={<SoupsPage />} />
-                <Route path="/juices" element={<JuicesPage />} />
-                <Route path="/salad" element={<SaladPage />} />
+                <Route path="/category/:category" element={<CategoryPage />} />
+               
               
-                <Route path="/blog" element={<h2 className="text-center text-2xl mt-8">Blog Page (To be implemented)</h2>} />
+                <Route path="/recipes" element={<Recipes />} />
+                <Route path="/generate" element={<RecipeGenerator />} />
+                <Route path="/aboutus" element={<AboutUs />}/>
+                  <Route path="/blog" element={<Blog/>}/>
                 <Route path="/contact" element={<h2 className="text-center text-2xl mt-8">Contact Page (To be implemented)</h2>} />
             </Routes>
+            <div className="bg-gray-100 h-1 my-12 mx-auto max-w-7xl"></div>
             <Footer/>
          
         </div>

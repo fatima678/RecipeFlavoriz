@@ -105,8 +105,9 @@ const Navbar = () => {
     const links = [
         { name: 'Home', path: '/' },
         { name: 'Recipes', path: '/recipes' },
-        { name: 'Blog', path: '/blog' },
-        { name: 'Contact', path: '/contact' },
+         { name: 'Blog', path: '/blog' },
+        { name: 'AbouUs', path: '/aboutus' },
+       
     ];
 
     return (
